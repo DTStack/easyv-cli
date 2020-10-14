@@ -26,7 +26,7 @@ assignees: ''
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**开发工具版本  (easyv -V查看): **
+**开发工具版本 (easyv -V查看):**
  - @easyv/cli: [1.0.0]
  - @easyv/react-component-builder: [1.0.0]
 
